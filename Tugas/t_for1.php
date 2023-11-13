@@ -1,5 +1,5 @@
 <?php
-    $tinggi = 7;
+    $tinggi = 8;
     $star = "";
 
     for ($i =1; $i <= $tinggi; $i++){
