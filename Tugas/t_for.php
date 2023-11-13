@@ -1,5 +1,5 @@
 <?php
-    $tinggi = 7;
+    $tinggi = 8;
 
     for ($i = 0; $i <= $tinggi; $i++){
         for ($j = 1; $j <= $i; $j++){
